@@ -1,0 +1,15 @@
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\bin\Debug\net6.0\Jogo_da_forca.exe
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\bin\Debug\net6.0\Jogo_da_forca.deps.json
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\bin\Debug\net6.0\Jogo_da_forca.runtimeconfig.json
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\bin\Debug\net6.0\Jogo_da_forca.dll
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\bin\Debug\net6.0\Jogo_da_forca.pdb
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.csproj.AssemblyReference.cache
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.AssemblyInfoInputs.cache
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.AssemblyInfo.cs
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.csproj.CoreCompileInputs.cache
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.dll
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\refint\Jogo_da_forca.dll
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.pdb
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\Jogo_da_forca.genruntimeconfig.cache
+C:\Users\laril\OneDrive\Documentos\Projetos pessoais\Jogo_da_forca\CSharp\Jogo_da_forca\Jogo_da_forca\obj\Debug\net6.0\ref\Jogo_da_forca.dll
